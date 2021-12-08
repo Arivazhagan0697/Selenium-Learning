@@ -1,0 +1,4 @@
+2021-02-06 20:50:44 INFO  XMLConfiguratorExample:14 - This is an info message
+2021-02-06 20:50:44 WARN  XMLConfiguratorExample:15 - This is a warning message
+2021-02-06 20:50:44 ERROR XMLConfiguratorExample:16 - This is an error message
+2021-02-06 20:50:44 FATAL XMLConfiguratorExample:17 - This is a fetal message
